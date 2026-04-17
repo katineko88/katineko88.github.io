@@ -1,0 +1,18 @@
+
+
+.ovo-regular {
+    font-family: "Ovo", serif;
+    font-weight: 400;
+    font-style: normal;
+    }
+
+.navbar .navbar-nav .nav-link:not(.btn) i.fa{
+    font-size: 18px;
+    position: relative;
+    top: 3px;
+    text-align: center;
+    width: 21px;
+    }
+
+
+  
